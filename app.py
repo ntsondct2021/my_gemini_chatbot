@@ -92,7 +92,7 @@ HTML_TEMPLATE = """
             const messageBox = document.getElementById('messageBox');
             const msgDiv = document.createElement('div');
             msgDiv.classList.add(sender === 'user' ? 'user-message' : 'bot-message');
-            msgDiv.innerHTML = `<strong>${sender === 'user' ? 'Bạn' : 'Chatbot'}:</strong> ${message}`;
+            msgDiv.innerHTML = `<strong>${sender === 'user' ? 'Bạn' : '🤖Chatbot TinhocDCT'}:</strong> ${message}`;
             messageBox.appendChild(msgDiv);
             messageBox.scrollTop = messageBox.scrollHeight; // Cuộn xuống dưới cùng
         }
