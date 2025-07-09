@@ -73,7 +73,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="chat-container">
-        <h1>Chatbot TinhocDCT</h1>
+        <h1>🤖Chatbot TinhocDCT</h1>
         <div class="message-box" id="messageBox">
             <div class="bot-message"><strong>Chatbot:</strong> Xin chào! Tôi có thể giúp gì cho bạn?</div>
         </div>
