@@ -73,7 +73,13 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="chat-container">
-        <h1>🤖Chatbot TinhocDCT</h1>
+        <table>
+            <tr>
+                <td><img src="/static/logo.png" alt="Biểu tượng Robot" style="width: 100px; height: auto; margin-bottom: 10px;"></td>
+                <td><h1>Chatbot TinhocDCT</h1></td>
+            </tr>
+        </table>
+        
         <div class="message-box" id="messageBox">
             <div class="bot-message"><strong>Chatbot:</strong> Xin chào! Tôi có thể giúp gì cho bạn?</div>
         </div>
