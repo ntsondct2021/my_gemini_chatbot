@@ -75,7 +75,7 @@ HTML_TEMPLATE = """
     <div class="chat-container">
         <table>
             <tr>
-                <td><img src="/static/logo.png" alt="Biểu tượng Robot" style="width: 100px; height: auto; margin-bottom: 10px;"></td>
+                <td><img src="/static/logo.png" alt="Biểu tượng Robot" style="width: 50px; height: 50px; margin-bottom: 10px;"></td>
                 <td><h1>Chatbot TinhocDCT</h1></td>
             </tr>
         </table>
