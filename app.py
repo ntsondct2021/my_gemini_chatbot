@@ -59,7 +59,7 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chatbot Gemini của bạn</title>
+    <title>Chatbot TinhocDCT của bạn</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
         .chat-container { max-width: 600px; margin: auto; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
@@ -73,7 +73,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="chat-container">
-        <h1>Chatbot Gemini</h1>
+        <h1>Chatbot TinhocDCT</h1>
         <div class="message-box" id="messageBox">
             <div class="bot-message"><strong>Chatbot:</strong> Xin chào! Tôi có thể giúp gì cho bạn?</div>
         </div>
